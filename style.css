@@ -1,0 +1,21 @@
+.container {
+  width: 100vw;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+span {
+  display: block;
+}
+
+button {
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: rgba(255, 94, 0, 0.5);
+}
+
+.box {
+  margin: 10px;
+}
